@@ -38,3 +38,5 @@ UPDATE namespace to argocd and sync
 
 <img width="1440" height="835" alt="image" src="https://github.com/user-attachments/assets/db9d583b-972c-4db3-bb50-f12f46a2db75" />
 
+<img width="1255" height="559" alt="image" src="https://github.com/user-attachments/assets/d72ca253-e753-4c30-b1c9-fe4b79486530" />
+
