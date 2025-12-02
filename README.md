@@ -4,12 +4,14 @@ This repository contains a simple NGINX Kubernetes application used to learn and
 It includes Kubernetes manifests for deployment and service resources, managed fully through Argo CD.
 
 How it works:-
+
 1- Argo CD monitors this repository.
 2- On any commit, Argo CD detects drift.
 3- Sync applies manifests directly to the Kubernetes cluster.
 4- NGINX deployment becomes live instantly through GitOps.
 
 This project serves as a hands on environment to:-
+
 Understand GitOps fundamentals
 Learn Argo CD application configuration
 Practice debugging broken deployments
