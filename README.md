@@ -27,7 +27,7 @@ with default namespace.
 
 
 
-
+==================================
 UPDATE namespace to argocd and sync
 
 
@@ -35,8 +35,6 @@ UPDATE namespace to argocd and sync
 <img width="1079" height="167" alt="image" src="https://github.com/user-attachments/assets/c23e270a-8bb8-4b7c-891f-c3ab8881d092" />
 
 <img width="1440" height="352" alt="image" src="https://github.com/user-attachments/assets/b78664c0-5c55-4134-85d7-e336cc95bae4" />
-
-<img width="1440" height="835" alt="image" src="https://github.com/user-attachments/assets/db9d583b-972c-4db3-bb50-f12f46a2db75" />
 
 <img width="1255" height="559" alt="image" src="https://github.com/user-attachments/assets/d72ca253-e753-4c30-b1c9-fe4b79486530" />
 
