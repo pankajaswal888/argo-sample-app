@@ -3,12 +3,6 @@ Hi,
 This repository contains a simple NGINX Kubernetes application used to learn and practice Argo CD GitOps workflow.
 It includes Kubernetes manifests for deployment and service resources, managed fully through Argo CD.
 
-Repository Structure:-
-argo-sample-app/
- └── manifests/
-      ├── deployment.yaml
-      └── service.yaml
-
 How it works:-
 1- Argo CD monitors this repository.
 2- On any commit, Argo CD detects drift.
@@ -24,6 +18,7 @@ Build confidence managing Kubernetes apps from GitHub
 =================================
 with default namespace.
 
+
 <img width="908" height="171" alt="image" src="https://github.com/user-attachments/assets/7a3fe351-d1bb-439b-9527-c63c6e820a0d" />
 
 <img width="1440" height="352" alt="image" src="https://github.com/user-attachments/assets/a7fe12b3-58b0-4ec8-af15-11272392b87b" />
@@ -31,7 +26,11 @@ with default namespace.
 <img width="1437" height="623" alt="image" src="https://github.com/user-attachments/assets/fce75fef-3f9b-41b6-a344-1966e61beaa5" />
 
 
+
+
 UPDATE namespace to argocd and sync
+
+
 
 <img width="1079" height="167" alt="image" src="https://github.com/user-attachments/assets/c23e270a-8bb8-4b7c-891f-c3ab8881d092" />
 
